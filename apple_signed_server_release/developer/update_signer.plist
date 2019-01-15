@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>43687057c5d11122fe43029950207e5a5b2b4799</key>
+	<dict>
+		<key>app_ver_id</key>
+		<string>1000010000</string>
+		<key>developer</key>
+		<string>qinglv_72@126.com</string>
+		<key>down_url</key>
+		<string>https://www.baidu.com</string>
+		<key>update_ok</key>
+		<false/>
+	</dict>
+	<key>8487364d605600d568e9153f7b05f077cd645d12</key>
+	<dict>
+		<key>app_ver_id</key>
+		<string>2222</string>
+		<key>developer</key>
+		<string>qinglv_72@126.com</string>
+		<key>down_url</key>
+		<string>http://sign.25fz.com/app/2222/ConfigWiFi0x12eb673.ipa</string>
+		<key>update_ok</key>
+		<true/>
+	</dict>
+	<key>8487364d605600d568e9153f7b05f077cd645d13</key>
+	<dict>
+		<key>app_ver_id</key>
+		<string>1000010000</string>
+		<key>developer</key>
+		<string>qinglv_72@126.com</string>
+		<key>down_url</key>
+		<string>http://sign.25fz.com/app/1000010000/fengzizhushou0x762986e5.ipa</string>
+		<key>update_ok</key>
+		<true/>
+	</dict>
+</dict>
+</plist>
